@@ -1,196 +1,33 @@
-<h1 align="left">:wave: Hello there! I'm Ivan Troshin</h1>
+<h1 align="center">Ivan Troshin · Frontend Engineer</h1>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design%20Systems-7C3AED?style=for-the-badge&logo=storybook&logoColor=white" />
+</p>
 
-<h2 align="left" id="toudhsk-stack">🔥 Tech stack</h2>
+<p align="center">
+  <a href="https://t.me/toudshk"><img src="https://img.shields.io/badge/Telegram-@toudshk-26A4E3?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:troshin.dev@gmail.com"><img src="https://img.shields.io/badge/Email-troshin.dev%40gmail.com-FF6B2C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-> General
+---
 
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-<a href="#toudhsk-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
-</a>
-      <br>javascript
-    </td>
-    <td align="center" width="110" height="90">
-<a href="#toudhsk-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
-</a>
-      <br>typescript
-    </td>
-        <td align="center" width="110" height="90">
-<a href="#toudhsk-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
-</a>
-      <br>Html5
-    </td>
-         <td align="center" width="110" height="90">
-<a href="#toudhsk-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
-</a>
-      <br>Css3
-    </td>
-    <td align="center" width="110" height="90">
-<a href="#toudhsk-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
-</a>
-      <br>figma
-    </td>
-    <td align="center" width="110" height="90">
-<a href="#toudhsk-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
-</a>
-      <br>git
-    </td>
-    <td align="center" width="110" height="90">
-<a href="#toudhsk-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
-</a>
-      <br>yarn
-    </td>
-    <td align="center" width="110" height="90">
-<a href="#toudhsk-stack">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-</a>
-      <br>npm
-    </td>
-     <td align="center" width="110" height="90">
-<a href="#toudhsk-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
-</a>
-      <br>github
-    </td>
+### ⚡ Фокус
+- Next.js продукты с упором на скорость, DX и Core Web Vitals
+- Design Systems: UI-киты, Storybook, визуальные регресс-тесты
+- QA-цепочки: MSW, Jest/RTL, Playwright и Cypress e2e
 
-  </tr> 
-</table>
+### 🧰 Тех-выжимка
+`TypeScript` `React` `Next.js` `Redux Toolkit` `Zustand` `Tailwind CSS` `Sass` `MUI`  
+`Node.js` `NestJS` `tRPC` `MongoDB` `REST` `WebSocket`  
+`MSW` `Jest` `Testing Library` `Playwright` `Cypress` `GitHub Actions` `Turborepo`
 
-> Code quality
+### 🚀 Что беру на себя
+- дизайн и сборка компонентных библиотек под рост команды
+- оптимизация фронтенда: Lighthouse, bundle analyzer, SSR/ISR тюнинг
+- автоматизация QA: мок-сервисы на MSW, e2e сценарии и CI-пайплайн
 
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90">
-     
-<a href="#toudhsk-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
-      </a>
-      <br>eslint
-    </td>
-    <td align="center" width="110" height="90">
-   
-<a href="#toudhsk-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
-      </a>
-      <br>prettier
-    </td>
-       
-  </tr> 
-</table>
+---
 
-> Frontend
-
-<table width='100%'>
-  <tr>
-   <td align="center" width="110" height="90">
-<a href="#toudhsk-stack">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
-      </a>
-      <br>React
-    </td>
-     <td align="center" width="110" height="90">
-<a href="#toudhsk-stack">
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
-     </a>
-      <br>Next JS
-    </td>
- <td align="center" width="110" height="90">
-<a href="#toudhsk-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-     <td align="center" width="110" height="90">
-<a href="#toudhsk-stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
-   <td align="center" width="110" height="90">
-<a href="#toudhsk-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="36" height="36" alt="Gsap" />
-    </a>
-      <br>Gsap
-    </td>
-  </tr> 
-    <tr>
-     <td align="center" width="110" height="90"> 
-<a href="#toudhsk-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg" width="36" height="36" alt="Three.js" />
-      </a>
-      <br>Three.js
-    </td>
-    <td align="center" width="110" height="90"> 
-      
-<a href="#toudhsk-stack">
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
-    <td align="center" width="110" height="90"> 
-      
-<a href="#toudhsk-stack">
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-     </a>
-      <br>Vite
-    </td> 
-    <td align="center" width="110" height="90">
-      
-<a href="#toudhsk-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-   <td align="center" width="110" height="90">
-      
-<a href="#toudhsk-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-  </tr> 
-</table>
-
-> Backend
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90"> 
-   
-<a href="#toudhsk-stack">
-        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
-      </a>
-      <br>Nest JS
-    </td>
-    <td align="center" width="110" height="90">
-<a href="#toudhsk-stack">      
-        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-    <td align="center" width="110" height="90">
-<a href="#toudhsk-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-      <td align="center" width="110" height="90"> 
-<a href="#toudhsk-stack">
-        <img src="https://trpc.io/img/logo.svg" width="36" height="36" alt="tRPC" />
-      </a>
-      <br>tRPC
-    </td>
-  </tr> 
-</table>
-
-<br>
+<p align="center">Открыт к продуктовым челленджам и коллаборациям. Пишите в Telegram!</p>
