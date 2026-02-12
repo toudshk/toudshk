@@ -1,7 +1,7 @@
 <h1 align="center">Ivan Troshin · Frontend Engineer</h1>
 
 <p align="center">
-  <a href="https://t.me/toudshk"><img src="https://img.shields.io/badge/Telegram-@toudshk-26A4E3?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/toudhsk"><img src="https://img.shields.io/badge/Telegram-@toudhsk-26A4E3?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
